@@ -1,0 +1,18 @@
+{
+  "unlocked_door": "Porte déverrouillée",
+  "locked_door": "Porte verrouillée",
+  "lock_door": "[E] Verrouiller la porte",
+  "unlock_door": "[E] Déverrouiller la porte",
+  "door_lock": "Serrure de porte",
+  "passcode": "Code d'accès",
+  "lockpick_broke": "Votre crochet de serrure s'est cassé",
+  "pick_lock": "Crocheter la serrure",
+  "add_lock": "Ajouter une serrure de porte",
+  "edit_lock": "Modifier la serrure de porte",
+  "remove_lock": "Supprimer la serrure de porte",
+  "cannot_unlock": "Impossible de déverrouiller la porte",
+  "cannot_lock": "Impossible de verrouiller la porte",
+  "create_modify_lock": "Créer une serrure de porte ou modifier une existante",
+  "add_door_textui": "**Créer une porte**  \nInteragir avec [Clic gauche]  \nAnnuler avec [Clic droit]",
+  "command_closest": "Ouvrir l'interface utilisateur directement à la serrure de porte la plus proche"
+}
